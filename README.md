@@ -5,11 +5,13 @@
 - HTML native basic authentication
 - Visual improvement
 - EXTREMELY basic bucket statistics
+  
   ...coming in future version:
-- [] "Delete items" functionalities
-- [] Display create time/update time
-- [] Maybe not: "Upload items"
-- [] Suggestions? Submit a [PR](https://github.com/xolyn/listr2/pulls)
+  
+- [ ] "Delete items" functionalities
+- [ ] Display create time/update time
+- [ ] Maybe not: "Upload items"
+- [ ] Suggestions? Submit a [PR](https://github.com/xolyn/listr2/pulls)
 
 ## Usage
 Cloudflare -> Workers -> New worker -> Start from 'hello world' -> Edit code -> Paste code in `worker.js` -> Deploy -> Back: Connect -> Variable Name: `R2` -> Done connecting R2 -> Deploy again -> Enjoy
