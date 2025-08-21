@@ -1,4 +1,5 @@
 <img width="1424" height="884" alt="image" src="https://github.com/user-attachments/assets/c43c1ed6-a270-479d-9383-a2bcc75870b6" />
+
 ## Highlights
 - Minimalism design with minimal code and all native HTML functionalities to ensure compatibility
 - Show hierarchical structures (native HTML details attribute)
